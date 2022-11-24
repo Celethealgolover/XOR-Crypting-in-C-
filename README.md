@@ -1,1 +1,1 @@
-# XOR-Crypting-in-C-
+# XOR-Crypting-in-C++
